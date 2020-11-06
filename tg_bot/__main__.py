@@ -34,11 +34,10 @@ I'm a powerful group management bot 🤖
 
 👉Add me to your groups as admin to manage your groups with my commands🤩
 
-You can find my list of available commands with /help .
- 
-See [Basic Configuration Checklist](https://t.me/HaritaNews/10) on how to secure your group.
+You can find my list of available commands with 
 
-See the Source code of this bot [Source Code](https://github.com/Avishekbhattacharjee/Harita-Robot)
+Create me & OWNERS OF ME.  [this person 🇮🇳](t.me/shado_hackers)
+Join here(t.me/omg_infotec)
 """
 
 HELP_STRINGS = """
