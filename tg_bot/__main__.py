@@ -37,7 +37,7 @@ I'm a powerful group management bot 🤖
 You can find my list of available commands with 
 
 Create me & OWNERS OF ME.  [this person 🇮🇳](t.me/shado_hackers)
-Join here(t.me/omg_infotec)
+[Join here](t.me/OMG_info)
 """
 
 HELP_STRINGS = """
